@@ -4,7 +4,7 @@ interface   MyUser {
     email?:string;
 }
 
-type    MyUserOptionals = Partial<MyUser>;
+type    MyUserOptionals = Partial<MyUser>;//set all fields to optional
 
 const merger = (user:MyUser, overrides:MyUserOptionals):MyUser => {
     return{
