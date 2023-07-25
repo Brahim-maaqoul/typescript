@@ -38,3 +38,4 @@ console.log(saved);
 myDB.restoreFromString(saved);
 // myDB.map["foo"] = "baz";
 console.log(myDB.get("2"));
+//redaJAANIT1337@2020
