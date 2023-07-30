@@ -1,0 +1,27 @@
+
+body {
+  font-size: xx-large;
+  margin: auto;
+  max-width: 800px;
+}
+/* h2 {
+  animation: mymove 3s infini;
+  /* transition: ease-in 3s;
+  transform: translateY(120%); */
+/* } */
+
+/* h2:hover {
+  transition: ease-in 3s;
+  transform: translateY(-120%);
+} */
+/* @keyframes mymove {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
+} */
