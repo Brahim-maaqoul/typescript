@@ -2,7 +2,7 @@
 // 	console.log(`${quantity} ${ingrediant} ${optional ? ` ${optional}` : ""}`);
 // }
 
-// printIngrediant("lhwa", "zen")
+// printIngrediant("lwa", "zen")
 
 interface	User{
 	id:string;
